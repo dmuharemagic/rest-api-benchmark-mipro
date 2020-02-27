@@ -12,9 +12,9 @@ The _products_ table data was randomly generated and consists of approximately _
 
 The applications have a set of **3 endpoints** exposed:
 
-1.  **GET** mapping to `_/products_`, which retrieves a collection of products,
-2.  **GET** mapping to `_/products/{id}_`, which retrieves a specific product determined by a unique identifier
-3.  **POST** mapping to `_/product_` which creates a new product.
+1.  **GET** mapping to `/products`, which retrieves a collection of products,
+2.  **GET** mapping to `/products/{id}`, which retrieves a specific product determined by a unique identifier
+3.  **POST** mapping to `/product` which creates a new product.
 
 ## Usage
 
