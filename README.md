@@ -1,6 +1,6 @@
 # RESTful API benchmark tests
 
-This repository features a set of small **RESTful APIs** featuring basic **CRUD operations** in several modern frameworks, including **_Spring Boot_** (_release 2.2.4_), **_Quarkus_** (_version 1.1.1_), and **_Micronaut_** (_version 1.2.10_) to analyze how well they perform in different environments and JDKs, as well as GraalVM Native Imagea.
+This repository features a set of small **RESTful APIs** featuring basic **CRUD operations** in several modern frameworks, including **_Spring Boot_** (_release 2.2.4_), **_Quarkus_** (_version 1.1.1_), and **_Micronaut_** (_version 1.2.10_) to analyze how well they perform in different environments and JDKs, as well as how do they compare with their GraalVM Native Image counterparts.
 
 The applications are a part of a scientific research paper written by _Dino Muharemagić_, _Matija Šipek_, _Branko Mihaljević_ and _Aleksander Radovan_ on the topic "**Enhancing Performance of Cloud-based Software Applications with GraalVM and Quarkus**".
 
